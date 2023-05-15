@@ -13,7 +13,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Esha-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="Esha-Agarwal" />
   <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="https://www.instagram.com/_ms.camille_/"> 
-    <img align="right" alt="Aryan's Instagran" src="https://img.shields.io/badge/-aryan.upa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aryan.upa"> </a>
+    <img align="right" alt="Esha's Instagran" src="https://img.shields.io/badge/-aryan.upa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/Esha-agarwal"> </a>
   <br> <br>
   <img align="center" width="100%" src="https://github.com/aryan-upa/aryan-upa/blob/358d2d130429583e52b6910bd9f493a482e4244f/uploads/GitBanner.gif">
 </p>
