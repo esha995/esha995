@@ -32,7 +32,7 @@
 
 |
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"/>
+<img src="https://github-readme-stats.vercel.app/api?username=esha995&show_icons=true&theme=aura"/>
 
 <a href="http://www.github.com/esha995"><img src="https://github-readme-streak-stats.herokuapp.com/?user=esha995&stroke=10b981&background=171717&ring=6366f1&fire=6366f1&currStreakNum=10b981&currStreakLabel=6366f1&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
