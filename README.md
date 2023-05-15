@@ -1,3 +1,6 @@
+[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="center"> 
  ✨<br>𝑻𝒉𝒆 𝒓𝒐𝒂𝒅 𝒕𝒐 𝒘𝒊𝒔𝒅𝒐𝒎? - 𝑾𝒆𝒍𝒍, 𝒊𝒕'𝒔 𝒑𝒍𝒂𝒊𝒏 𝒂𝒏𝒅 𝒔𝒊𝒎𝒑𝒍𝒆 𝒕𝒐 𝒆𝒙𝒑𝒓𝒆𝒔𝒔: 𝑬𝒓𝒓 𝒂𝒏𝒅 𝒆𝒓𝒓 𝒂𝒏𝒅 𝒆𝒓𝒓 𝒂𝒈𝒂𝒊𝒏 𝒃𝒖𝒕 𝒍𝒆𝒔𝒔 𝒂𝒏𝒅 𝒍𝒆𝒔𝒔 𝒂𝒏𝒅 𝒍𝒆𝒔𝒔.<br>🖥️
 </p>
