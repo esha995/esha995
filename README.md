@@ -30,7 +30,7 @@
 
 |_**Github Stats**_|
 
-|<b>My GitHub Stats</b>
+|
 
 <a href="http://www.github.com/esha995"><img src="https://github-readme-stats.vercel.app/api?username=esha995&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=10b981&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="esha995's GitHub stats" /></a>
 
