@@ -10,7 +10,7 @@
   <img align="left" alt="Esha's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
   <a href="https://twitter.com/eshaAga7302"><img align="left" alt= " Esha Agarwal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> </a>
   <img align="left" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
-  <img align="right" src="https://komarev.com/ghpvc/?username=aryan-upa&label=Profile%20views&color=0e75b6&style=flat" alt="Esha-Agarwal" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=Esha-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="Esha-Agarwal" />
   <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="https://www.instagram.com/_ms.camille_/"> 
     <img align="right" alt="Aryan's Instagran" src="https://img.shields.io/badge/-aryan.upa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aryan.upa"> </a>
