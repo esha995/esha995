@@ -30,8 +30,7 @@
 ### My Github Stats:
 
 |_**Github Stats**_|
-|-----------|-------------|
-|-----------|-------------|
+
 |<a href="http://www.github.com/esha995"><img src="https://github-readme-stats.vercel.app/api?username=esha995&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=10b981&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="esha995's GitHub stats" /></a>
 
 <a href="http://www.github.com/esha995"><img src="https://github-readme-streak-stats.herokuapp.com/?user=esha995&stroke=10b981&background=171717&ring=6366f1&fire=6366f1&currStreakNum=10b981&currStreakLabel=6366f1&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
