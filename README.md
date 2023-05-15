@@ -10,7 +10,7 @@
   <img align="left" alt="Esha's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> </a>
   <a href="https://twitter.com/eshaAga7302"><img align="left" alt= " Esha Agarwal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> </a>
   <img align="left" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
-  <img align="right" src="https://komarev.com/ghpvc/?username=aryan-upa&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-upa" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=aryan-upa&label=Profile%20views&color=0e75b6&style=flat" alt="Esha-Agarwal" />
   <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <a href="https://www.instagram.com/_ms.camille_/"> 
     <img align="right" alt="Aryan's Instagran" src="https://img.shields.io/badge/-aryan.upa-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/aryan.upa"> </a>
@@ -42,7 +42,6 @@
 ### IDE/Editor (s) In Use:
 <img align="left" src="https://img.shields.io/badge/-IntelliJ%20IDEA-fe2857?logo=intellijidea">
 <img align="left" src="https://img.shields.io/badge/-Visual%20Studio%20Code-005ba4?logo=visualstudiocode">
-<img align="left" src="https://img.shields.io/badge/WEBSTORM-%2307c3f2?logo=webstorm"/>
 <br>
 
 
