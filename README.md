@@ -31,7 +31,7 @@
 
 |_**Github Stats**_|_**Top Languages**_|
 |-----------|-------------|
-|<img src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-upa&theme=aura&hide=CSS,HTML,PHP&langs_count=3"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=Esha Agarwal&show_icons=true&theme=aura"/>|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=Esha Agarwal &hide=CSS,HTML,PHP&langs_count=3"/>|
  
 ### IDE/Editor (s) In Use:
 <img align="left" src="https://img.shields.io/badge/-IntelliJ%20IDEA-fe2857?logo=intellijidea">
