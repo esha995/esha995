@@ -32,13 +32,16 @@
 
 |
 
-<a href="http://www.github.com/esha995"><img src="https://github-readme-stats.vercel.app/api?username=esha995&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=10b981&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="esha995's GitHub stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=aryan-upa&show_icons=true&theme=aura"/>
 
 <a href="http://www.github.com/esha995"><img src="https://github-readme-streak-stats.herokuapp.com/?user=esha995&stroke=10b981&background=171717&ring=6366f1&fire=6366f1&currStreakNum=10b981&currStreakLabel=6366f1&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
 <a href="http://www.github.com/esha995"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=esha995&bg_color=171717&color=10b981&line=facc15&point=10b981&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/esha995" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esha995&langs_count=10&title_color=6366f1&text_color=10b981&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+ 
  
 ### IDE/Editor (s) In Use:
 <img align="left" src="https://img.shields.io/badge/-IntelliJ%20IDEA-fe2857?logo=intellijidea">
