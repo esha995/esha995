@@ -13,7 +13,8 @@
   <img align="left" alt="CoderGuy" width="3%" src="https://www.csm.ornl.gov/~sheldon/ds/images/book_q.gif" >
   <img align="right" src="https://komarev.com/ghpvc/?username=Esha-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="Esha-Agarwal" />
   <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  
+  <br>
+  <br>
  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </p>
 
