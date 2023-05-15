@@ -1,6 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="center"> 
  ✨<br>𝑻𝒉𝒆 𝒓𝒐𝒂𝒅 𝒕𝒐 𝒘𝒊𝒔𝒅𝒐𝒎? - 𝑾𝒆𝒍𝒍, 𝒊𝒕'𝒔 𝒑𝒍𝒂𝒊𝒏 𝒂𝒏𝒅 𝒔𝒊𝒎𝒑𝒍𝒆 𝒕𝒐 𝒆𝒙𝒑𝒓𝒆𝒔𝒔: 𝑬𝒓𝒓 𝒂𝒏𝒅 𝒆𝒓𝒓 𝒂𝒏𝒅 𝒆𝒓𝒓 𝒂𝒈𝒂𝒊𝒏 𝒃𝒖𝒕 𝒍𝒆𝒔𝒔 𝒂𝒏𝒅 𝒍𝒆𝒔𝒔 𝒂𝒏𝒅 𝒍𝒆𝒔𝒔.<br>🖥️
 </p>
@@ -16,7 +14,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Esha-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="Esha-Agarwal" />
   <img align="right" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   
-  <img align="center" width="100%" src="https://camo.githubusercontent.com/65de73171b032a2f5ecaaa4393f8d488cf9c85563947105f54bc7941a10f0f0b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f726550446644574f33586f41414141642f6861636b696e672e676966">
+ <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 </p>
 
 ```
